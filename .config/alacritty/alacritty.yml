@@ -4,9 +4,16 @@ window:
     columns: 95
     lines: 30
 
+  padding:
+    x: 3
+    y: 0
+
 # Font configuration
 font:
   normal:
     family: Deja Vu Sans Mono for Powerline
 
   size: 14
+
+cursor:
+  style: Underline
