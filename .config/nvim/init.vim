@@ -6,6 +6,8 @@ Plug 'morhetz/gruvbox'
 
 Plug 'vim-airline/vim-airline'
 
+Plug 'tpope/vim-fugitive'
+
 " Initialize plugin system
 call plug#end()
 
