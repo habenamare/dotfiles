@@ -10,6 +10,8 @@ Plug 'tpope/vim-fugitive'
 
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
+Plug 'tpope/vim-commentary'
+
 " Initialize plugin system
 call plug#end()
 
