@@ -12,6 +12,9 @@ Plug 'neoclide/coc.nvim', {'branch': 'release'}
 
 Plug 'tpope/vim-commentary'
 
+Plug 'junegunn/fzf', { 'dir': '~/.fzf', 'do': './install --all' }
+Plug 'junegunn/fzf.vim'
+
 " Initialize plugin system
 call plug#end()
 
