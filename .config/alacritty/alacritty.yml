@@ -15,6 +15,10 @@ font:
 
   size: 14
 
+# Key bindings
+key_bindings:
+  - { key: F11, action: ToggleFullscreen }
+
 # Base16 Gruvbox light, soft 256 - alacritty color config
 # Dawid Kurek (dawikur@gmail.com), morhetz (https://github.com/morhetz/gruvbox)
 colors:
