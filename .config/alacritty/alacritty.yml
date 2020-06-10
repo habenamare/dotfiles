@@ -15,6 +15,9 @@ font:
 
   size: 14
 
+cursor:
+  style: Underline
+
 # Key bindings
 key_bindings:
   - { key: F11, action: ToggleFullscreen }
